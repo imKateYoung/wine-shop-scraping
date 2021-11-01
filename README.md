@@ -1,6 +1,9 @@
 # Wine-shop-scraping
 This is a small project scraping data from a wine-ecommerce website
 
+
+![gif](https://user-images.githubusercontent.com/17926581/139612914-e3aed023-fa53-47e5-ac7b-371eb111705f.gif)
+
 ## How It's Made:
 Using Express for server backend, axios for HTTP requests, and Cheerio to parses markups.
 
