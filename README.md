@@ -12,6 +12,7 @@ Understanding how Cheerio provides jQuery-like syntax, enables javascript to be 
 
 
 ## Things to improve:
-With short amount of time, I didn't scrape the data I wanted to.
+With short amount of time, I didn't scrape the data I wanted to and save them to database.
 To be continued...
+
 
